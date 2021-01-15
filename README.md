@@ -10,7 +10,7 @@ Damit wir eine bessere übersicht haben was ihr getan habt und wo ihr grade seid
 
 Dazu [meldet euch bitte auf github an](https://github.com/join "github sign up"), forked dieses Repository einmal pro Praktikumsgruppe und fügt die anderen Gruppenmitgleider als "maintaner"- members hinzu. 
 
-![fork button location](.gitlab/fork_button.jpg) 
+![fork button location](.github/fork_button.jpg) 
  
 Members kann man im Seitenpanel aud der linken Seite unter dem vorletztem Punkt  "Members"  zu einem Repository hinzufügen. Nachdem die anderen Mitglieder hinzugefügt sind sollte unter in ihrem account das repository erscheinen. 
 
